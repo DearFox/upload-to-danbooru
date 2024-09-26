@@ -1,5 +1,10 @@
 This is just a dirty little hack to get this extension working with [shimmie2](https://github.com/shish/shimmie2)
 
+If you want to use this, you will have to build it yourself.
+Also, you most likely will not be able to install the resulting extension in FireFox since it is not signed. to install you will have to set `xpinstall.signatures.required` to `false` in `about:config`
+
+BUT THIS IS AT YOUR OWN RISK!
+
 # Upload to Danbooru Web Extension
 
 Add a page action and a context menu option (for images) to upload to ![cardboard box](/danbooru.svg) Danbooru. Replacement for [bookmarklets](https://danbooru.donmai.us/static/bookmarklet).
