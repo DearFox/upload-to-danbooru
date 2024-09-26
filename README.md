@@ -1,3 +1,5 @@
+This is just a dirty little hack to get this extension working with [shimmie2](https://github.com/shish/shimmie2)
+
 # Upload to Danbooru Web Extension
 
 Add a page action and a context menu option (for images) to upload to ![cardboard box](/danbooru.svg) Danbooru. Replacement for [bookmarklets](https://danbooru.donmai.us/static/bookmarklet).
